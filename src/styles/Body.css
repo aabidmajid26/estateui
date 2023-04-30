@@ -1,0 +1,22 @@
+#content {
+    /* padding-top: 2%;
+    padding-left: 4%; */
+    /* height: 100%; */
+    
+}
+#content h3 {
+    font-size: 80px;
+    font-weight: 100;
+}
+#content p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#content a {
+    height: 10px;
+    width: max-content;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    background-color: #232323 ;
+}
