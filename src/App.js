@@ -16,15 +16,17 @@ import {
 function App() {
   return (
     <div className='full-page'>
-        <Header />
-        <div className='page-body'>
-            <Routes>
-                <Route path="/" element={ <Body /> } />
-                <Route path="/contact" element={ <Contact /> } />
-                <Route path="/about" element={ <About /> } />
-            </Routes>
+        <div className='background-image'>
+            <Header />
+            <div className='page-body'>
+                <Routes>
+                    <Route path="/" element={ <Body /> } />
+                    <Route path="/contact" element={ <Contact /> } />
+                    <Route path="/about" element={ <About /> } />
+                </Routes>
+            </div>
+            <Footer />
         </div>
-        <Footer />
     </div>
   );
 }
