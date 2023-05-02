@@ -1,3 +1,8 @@
+#content-king {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1%;
+}
 #content {
     /* padding-top: 2%;
     padding-left: 4%; */
@@ -19,4 +24,13 @@
     color: white;
     text-decoration: none;
     background-color: #232323 ;
+}
+
+@media (max-width: 699px) {
+    #content-king {
+        display: block;
+        padding: 0 1%;
+        margin: 0;
+    }
+    
 }
