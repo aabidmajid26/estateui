@@ -8,19 +8,28 @@
 
 
 .full-page {
-    width: 100%;
-    height: 100vh;
-    padding-left: 2%;
+    width: 98%;
+    margin: 1%;
+    border-radius: 3%;
+    /* padding-left: 2%; */
+}
+.background-image {
+    padding: 3%;
+    border-radius: 3%;
     background-image: url("./images/main-image.jpg");
     background-color: #f7efef;
     background-repeat: no-repeat;
     background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 .page-body {
     padding: 2% 0 0 0;
 }
 @media (max-width: 699px) {
     .full-page {
-        background-image: url("./images/main-image-portrait.jpg");
+        /* background-image: url("./images/main-image-portrait.jpg"); */
     }
 }
