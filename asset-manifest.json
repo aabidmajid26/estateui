@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/estateui/static/css/main.246c4819.css",
-    "main.js": "/estateui/static/js/main.059f5de4.js",
-    "static/media/main-image-portrait.jpg": "/estateui/static/media/main-image-portrait.155b00c993db36c6cf1d.jpg",
-    "static/media/main-image.jpg": "/estateui/static/media/main-image.ed986b390d779648c104.jpg",
-    "index.html": "/estateui/index.html",
-    "main.246c4819.css.map": "/estateui/static/css/main.246c4819.css.map",
-    "main.059f5de4.js.map": "/estateui/static/js/main.059f5de4.js.map"
+    "main.css": "/static/css/main.848001b9.css",
+    "main.js": "/static/js/main.3709a433.js",
+    "static/media/main-image-portrait.jpg": "/static/media/main-image-portrait.155b00c993db36c6cf1d.jpg",
+    "static/media/main-image.jpg": "/static/media/main-image.ed986b390d779648c104.jpg",
+    "index.html": "/index.html",
+    "main.848001b9.css.map": "/static/css/main.848001b9.css.map",
+    "main.3709a433.js.map": "/static/js/main.3709a433.js.map"
   },
   "entrypoints": [
-    "static/css/main.246c4819.css",
-    "static/js/main.059f5de4.js"
+    "static/css/main.848001b9.css",
+    "static/js/main.3709a433.js"
   ]
 }
