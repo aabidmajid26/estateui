@@ -6,7 +6,7 @@ export default function Contact() {
     const {register, handleSubmit} = useForm();
     return (
         <>
-            <div className='form-group col-lg-3 col-sm-6 col-12' id="form" >
+            <div className='form-group col-lg-6 col-sm-6 col-12' id="form" >
                 <h3 id='form-title'>Hello! Please Fill Out This Form</h3>
                 <form 
                     onSubmit={handleSubmit((data) => {
