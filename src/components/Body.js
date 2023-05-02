@@ -8,7 +8,7 @@ import '../styles/Body.css';
 export default function Body() {
     return (
         <div id="content-king" >
-            <div id="content">
+            <div id="content" className="col-4">
                 <h3>Queens Tower</h3>
                 <p>
                     Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
