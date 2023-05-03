@@ -1,7 +1,7 @@
 #content-king {
     display: flex;
     justify-content: space-between;
-    padding: 0 1%;
+    padding: 0 0.5%;
 }
 #content {
     /* padding-top: 2%;
@@ -25,6 +25,9 @@
     color: white;
     text-decoration: none;
     background-color: #232323 ;
+}
+.carousel-and-bigname {
+    margin: 1%;
 }
 
 @media (max-width: 699px) {
