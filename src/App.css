@@ -10,13 +10,14 @@
 .full-page {
     width: 98%;
     margin: 2% 1%;
-    border-radius: 4%;
     background-color: #232323;
+    border-radius: 30px;
     /* padding-left: 2%; */
 }
 .background-image {
     padding: 3%;
-    border-radius: 4%;
+    height: 100%;
+    border-radius: 30px;
     background-image: url("./images/main-image.jpg");
     background-color: #f7efef;
     background-repeat: no-repeat;
