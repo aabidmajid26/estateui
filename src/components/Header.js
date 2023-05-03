@@ -67,7 +67,7 @@ export default function Header() {
         <>
             <div className='header'>
                 <nav> 
-                    <img onClick={handleDropdownClick} id='logo' src='./logo512.png' alt='logo'/>
+                    <img onClick={handleDropdownClick} id='logo' src={require('./logo512.png')} alt='logo'/>
                     <ul id='dropdown'> 
                         <li><Link to='/'>Home</Link></li>
                         <li><Link to='/about'>About</Link></li>
