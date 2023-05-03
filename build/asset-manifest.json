@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/estateui/static/css/main.0c29d4fb.css",
-    "main.js": "/estateui/static/js/main.618c3764.js",
+    "main.css": "/estateui/static/css/main.76aed16d.css",
+    "main.js": "/estateui/static/js/main.e9b9455d.js",
     "static/media/main-image-portrait.jpg": "/estateui/static/media/main-image-portrait.155b00c993db36c6cf1d.jpg",
     "static/media/main-image.jpg": "/estateui/static/media/main-image.ed986b390d779648c104.jpg",
     "index.html": "/estateui/index.html",
-    "main.0c29d4fb.css.map": "/estateui/static/css/main.0c29d4fb.css.map",
-    "main.618c3764.js.map": "/estateui/static/js/main.618c3764.js.map"
+    "main.76aed16d.css.map": "/estateui/static/css/main.76aed16d.css.map",
+    "main.e9b9455d.js.map": "/estateui/static/js/main.e9b9455d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c29d4fb.css",
-    "static/js/main.618c3764.js"
+    "static/css/main.76aed16d.css",
+    "static/js/main.e9b9455d.js"
   ]
 }
