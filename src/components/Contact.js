@@ -7,7 +7,7 @@ export default function Contact() {
     return (
         <>
             <div className='form-group col-md-12 col-lg-12 col-12' id="form" >
-                <h3 id='form-title'>Hello! Please Fill Out This Form</h3>
+                <h3 id='form-title'>Find Your Perfect Workspace. </h3>
                 <form 
                     onSubmit={handleSubmit((data) => {
                         console.log(data, 'data');

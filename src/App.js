@@ -21,6 +21,7 @@ function App() {
             <div className='page-body'>
                 <Routes>
                     <Route path="/" element={ <Body /> } />
+                    <Route path="/home" element={ <Body /> } />
                     <Route path="/contact" element={ <Contact /> } />
                     <Route path="/about" element={ <About /> } />
                 </Routes>
