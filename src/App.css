@@ -35,3 +35,14 @@
         /* background-image: url("./images/main-image-portrait.jpg"); */
     }
 }
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+html {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
